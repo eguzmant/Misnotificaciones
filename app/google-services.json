@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "334401914066",
+    "firebase_url": "https://misnotificaciones-d49d3.firebaseio.com",
+    "project_id": "misnotificaciones-d49d3",
+    "storage_bucket": "misnotificaciones-d49d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334401914066:android:aaeda9ca0005ed37",
+        "android_client_info": {
+          "package_name": "com.example.edwin.misnotificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334401914066-bq1sj0cp0l4jmrspbrflv1etl2sghd3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEeQIj16tnU7Cc6h78MOzYwzwL-GujvmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
